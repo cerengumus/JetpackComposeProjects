@@ -9,3 +9,4 @@ Compose version: 1.1.0-beta01
 Android studio:  chipmunk - 2021.2.1 Patch 2
 
 ![](https://github.com/cerengumus/JetpackComposeProjects/blob/main/SimpleLoginApp/Screen%20Recording%202022-09-29%20at%2022.52.26.gif)
+![alt text](https://github.com/cerengumus/JetpackComposeProjects/blob/main/simpleloginapp/image.png)
